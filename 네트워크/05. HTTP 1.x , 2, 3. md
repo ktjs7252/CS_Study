@@ -1,4 +1,4 @@
-#HTTP1.x (Hypertext Transfer Protocol)
+# HTTP1.x (Hypertext Transfer Protocol)
 HTTP1.0은 기본적으로 한 연결당 하나의 요청을 처리하도록 설계됨.
 이는 RTT증가를 불러오게 됨.
 
